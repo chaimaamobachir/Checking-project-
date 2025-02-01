@@ -1,9 +1,11 @@
 First Page for Uploading Research
-![Screenshot 2025-02-02 000317](https://github.com/user-attachments/assets/89ce9557-9b49-4f4f-a290-6a927dbe9ec9)
+![Screenshot 2025-02-02 003200](https://github.com/user-attachments/assets/f60d1513-3d5c-49be-989f-c2ebee5487a4)
+
 If the uploaded research is unique and does not have the same content or title as any previous files:
-![Screenshot 2025-02-02 000353](https://github.com/user-attachments/assets/3f6564d0-9c9d-4299-8ac6-0d2cd8ecc4ad)
+![Screenshot 2025-02-02 003246](https://github.com/user-attachments/assets/0cbddace-669d-47b4-847d-9bd161bb98fd)
+
 If a similar research file already exists, the system displays the file with the same topic or content:
-![Screenshot 2025-02-02 001005](https://github.com/user-attachments/assets/027dc603-31a0-4746-a18a-3c98059fb879)
+![Screenshot 2025-02-02 003138](https://github.com/user-attachments/assets/8be06631-f868-4bd3-89cb-93cf631f4482)
 
 ---
 
