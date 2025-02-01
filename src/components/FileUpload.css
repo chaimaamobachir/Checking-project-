@@ -1,0 +1,62 @@
+.file-upload-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .upload-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #333;
+  }
+  
+  /* Zone cliquable pour sélectionner un fichier */
+  .file-upload-label {
+    display: block;
+    padding: 12px;
+    background: #f3f3f3;
+    border: 2px dashed #aaa;
+    border-radius: 8px;
+    cursor: pointer;
+    color: #555;
+    transition: 0.3s;
+  }
+  
+  .file-upload-label:hover {
+    background: #e0e0e0;
+  }
+  
+  /* Input caché complètement */
+  .hidden-input {
+    display: none; /* Assure qu'il est totalement invisible */
+  }
+  
+  /* Bouton de téléchargement */
+  .file-upload-button {
+    margin-top: 15px;
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    color: white;
+    background: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .file-upload-button:hover {
+    background: #0056b3;
+  }
+  
+  /* Bouton désactivé */
+  .file-upload-button.disabled {
+    background: #ccc;
+    cursor: not-allowed;
+  }
+  
